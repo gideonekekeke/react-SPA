@@ -1,0 +1,3 @@
+[submodule "react-SPA"]
+	path = react-SPA
+	url = https://github.com/gideonekekeke/react-SPA.git
